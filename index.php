@@ -1,3 +1,3 @@
 <?php
-echo "Hi. User24----github";
+echo "Hi. User24----ubuntu";
 ?>
